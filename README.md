@@ -47,5 +47,4 @@
 🔒 [Private from jina]: @lusi hello both of u
 🔒 [Private from minha]: hello
 ✍️  You: @minha hello
-
-12            
+            
