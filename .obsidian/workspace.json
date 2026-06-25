@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7f0e3a1a749dac62",
+        "id": "7ee691f19bed1053",
         "type": "tabs",
         "children": [
           {
-            "id": "e25bc541d0052351",
+            "id": "ded6fa7cdeb8896b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "servel.png.md",
+                "file": "complete work flow images.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "servel.png"
-            }
-          },
-          {
-            "id": "fe2f903774f967bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "client1.png.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "client1.png"
-            }
-          },
-          {
-            "id": "6a6596c4f2b18774",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "client2.png.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "client2.png"
-            }
-          },
-          {
-            "id": "b9177e6426bc801b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "client3.png.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "client3.png"
-            }
-          },
-          {
-            "id": "2d46c6fa807497c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wireshark.png.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wireshark.png"
-            }
-          },
-          {
-            "id": "a907dafcf225ca1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readme.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Readme.md"
+              "title": "complete work flow images"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,19 +183,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "a907dafcf225ca1f",
+  "active": "ded6fa7cdeb8896b",
   "lastOpenFiles": [
-    "Pasted image 20260625162044.png",
-    "Readme.md.md",
+    "complete work flow images.pdf",
+    "Pasted image 20260625214521.png",
+    "Images.png.md",
+    "complete work flow images.md",
+    "Pasted image 20260625213718.png",
+    "Pasted image 20260625184734.png",
+    "Pasted image 20260625184502.png",
+    "Pasted image 20260625184402.png",
+    "Pasted image 20260625183947.png",
     "Wireshark.png.md",
-    "Pasted image 20260625161914.png",
-    "client3.png.md",
-    "Pasted image 20260625155415.png",
+    "Readme.md.md",
+    "Pasted image 20260625183216.png",
     "client2.png.md",
-    "Pasted image 20260625155346.png",
-    "client1.png.md",
-    "Pasted image 20260625155309.png",
     "servel.png.md",
-    "Pasted image 20260625155210.png"
+    "Pasted image 20260625183223.png",
+    "Pasted image 20260625183156.png",
+    "Pasted image 20260625183144.png",
+    "client3.png.md",
+    "client1.png.md",
+    "README.md"
   ]
 }
